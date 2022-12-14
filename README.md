@@ -2,6 +2,9 @@
 
 Touristy is a comprehensive API for accessing information on tourist attractions around the world. With Touristy, you can easily search for attractions by location and category etc, making it the perfect tool for planning your next trip. Whether you're looking for museums, theme parks, or other activities, Touristy has you covered.
 
+<img width="940" alt="redi_Touristy" src="https://user-images.githubusercontent.com/71856058/207550563-f631dba1-fb65-4aeb-b85f-d7711d3cf400.PNG">
+
+
 ## Features
 
 - Search for attractions by location and category
