@@ -25,7 +25,7 @@ async def add_attraction_data(attraction: AttractionSchema = Body(...)):
     # new_attraction = await add_attraction(attraction)
     # return ResponseModel(new_attraction, "Attraction added successfully.")
 
-@router.get("/", response_description="Attractions retrieved")
+@router.get("/getall", response_description="Attractions retrieved")
 async def get_attractions():
     attractions = await retrieve_attractions()
     if attractions:
